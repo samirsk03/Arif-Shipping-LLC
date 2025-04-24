@@ -864,7 +864,8 @@ h6+p {
 }
 
 .navbar-custom .bottom-nav .navbar-header .navbar-brand img {
-    width: 216px;
+    width: 100px;
+    height: 60px;
 }
 
 .navbar-custom .bottom-nav .navbar-nav {
